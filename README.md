@@ -44,7 +44,7 @@ telegram-bulk-messenger/
 ### Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/hi0499954-hue/telegram-bulk-messenger.git
+git clone https://github.com/your-username/telegram-bulk-messenger.git
 cd telegram-bulk-messenger
 ```
 
